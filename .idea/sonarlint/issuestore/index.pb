@@ -1,0 +1,25 @@
+
+ê
+`app/src/main/java/com/eamosse/gmail/gestion/myapplication/datasources/models/SourceResponse.java,e/1/e1a21d6e029381cb7db8adafc3ccfa76e51bd9dc
+ï
+eapp/src/main/java/com/eamosse/gmail/gestion/myapplication/datasources/models/ArticleItemResponse.java,e/1/e1452265ae88ff843d4bb06ebcce598afa8aa4aa
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+{
+Kapp/src/main/java/com/eamosse/gmail/gestion/myapplication/MainActivity.java,c/f/cf0be2f4b6f74114412210e7c1c90794ba482790
+z
+Japp/src/main/java/com/eamosse/gmail/gestion/myapplication/dto/Article.java,6/c/6c6a9e38dadc8621a974558117bbcd99049f3a70
+ë
+aapp/src/main/java/com/eamosse/gmail/gestion/myapplication/datasources/models/ArticleResponse.java,5/e/5e445056d872283e4f9e585b53cafe5f1418b13a
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+å
+\app/src/main/java/com/eamosse/gmail/gestion/myapplication/datasources/ArticleDataSource.java,8/c/8cb87bec61913f419959447235b13528173acb92
+â
+Yapp/src/main/java/com/eamosse/gmail/gestion/myapplication/datasources/ArticleService.java,8/0/8095d88ea7cccd17df7d7990ce8cb7a390a7ab3c
+ç
+]app/src/main/java/com/eamosse/gmail/gestion/myapplication/repositories/ArticleRepository.java,4/f/4fe2022222cf2daaee9a155f10c52fe2a1c62f08
+ä
+Zapp/src/main/java/com/eamosse/gmail/gestion/myapplication/viewmodels/ArticleViewModel.java,2/9/29c7b1dd96c307c7c91e74f0d689e49d932d88ea
+|
+Lapp/src/main/java/com/eamosse/gmail/gestion/myapplication/FirstFragment.java,5/3/53eb213f8339f26077a9858ddd9cd4ecaf6e3ae7

@@ -1,0 +1,15 @@
+
+J
+java:S1604"(Make this anonymous inner class a lambda(„Á­ÿÿÿÿÿ8úé°áù.
+L
+java:S1874"/Remove this use of "Handler"; it is deprecated.(’Ú©Š8…·­áù.
+E
+java:S1185J"(Remove this method to simply inherit it.(Ù«µ§8°ÂŒáù.
+„
+java:S3252-"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(õ‰¯à8¸¼öàù.
+J
+java:S1604*"(Make this anonymous inner class a lambda(ù‘’Øüÿÿÿÿ8¸¼öàù.
+t
+java:S1450"WRemove the "executor" field and declare it as a local variable in the relevant methods.(äü¥ 8×¾áù.
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8¸¼öàù.
+]	java:S125="<This block of commented-out lines of code should be removed.(ïâºÉúÿÿÿÿ8‹°–ãù.
